@@ -1,0 +1,4 @@
+C:\Users\kerem\source\repos\lab5Solution_HeartDataMLModel\lab5Proj\bin\Debug\netcoreapp3.1\lab5Proj.exe
+C:\Users\kerem\source\repos\lab5Solution_HeartDataMLModel\lab5Proj\obj\Debug\netcoreapp3.1\lab5Proj.csprojAssemblyReference.cache
+C:\Users\kerem\source\repos\lab5Solution_HeartDataMLModel\lab5Proj\obj\Debug\netcoreapp3.1\lab5Proj.AssemblyInfoInputs.cache
+C:\Users\kerem\source\repos\lab5Solution_HeartDataMLModel\lab5Proj\obj\Debug\netcoreapp3.1\lab5Proj.AssemblyInfo.cs
